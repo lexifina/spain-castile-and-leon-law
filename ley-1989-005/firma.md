@@ -1,0 +1,11 @@
+Por tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a los Tribunales y Autoridades que corresponda, que la hagan cumplir.
+Valladolid, 27 de junio de 1989.
+JOSE MARIA AZNAR LOPEZ
+Presidente de la Junta de Castilla y León
+ANEXO
+Límites del parque. Los límites de la zona que corresponden al parque son los siguientes:
+Norte: Línea que une el punto de cruce de la carretera de Sepúlveda a Peñafiel y la antigua línea de términos entre Sepúlveda y Castrillo, y el cruce del camino de Villaseca con el camino a la ermita de San Julián. Desde aquí se seguirá el camino de Villaseca a Sepúlveda hasta Villaseca. Se continúa por el camino que conduce a la ermita de San Frutos hasta el cruce con la antigua línea de términos entre Carrascal del Río y Villaseca, continuando por éste hasta su cruce con el camino de Hinojosa a Burgomillodo.
+Oeste: Línea que une este último punto con la presa del embalse de Burgomillodo. Desde la presa se bordea el pastizal de la margen izquierda del embalse, para tomar el camino que une Burgomillodo con Fuenterrebollo hasta encontrar el enebral, que se bordea hasta alcanzar la línea divisoria de los términos de Carrascal del Río y Fuenterrebollo.
+Sur: Línea de términos entre Carrascal del Río y Fuenterrebollo, se continúa por la línea de términos entre Sebúlcor y Fuenterrebollo, hasta encontrar el monte de U. P. número 213, que se bordea hasta la altura del kilómetro 5,500 de la carretera Cantalejo a Sepúlveda, que se seguirá hasta el kilómetro 7 (San Miguel de Neguera); desde aquí se trazará una línea hasta el kilómetro 11 de esta carretera, para continuar por ella hasta kilómetro 15, desde aquí a través de la línea trazada al vértice geodésico del Redilón y desde éste al cruce de carreteras locales que dan acceso a Sepúlveda por el sur.
+Este: Desde el último punto la línea que le une con la desembocadura del río Castilla con el río Duratón, continuando por la margen izquierda de este último a una distancia de 50 metros de su cauce, hasta la confluencia con la vaguada, que en dirección sensiblemente norte converge con el río en el cambio de dirección de éste. Se continúa por la cota de 1.000 metros de la vaguada de su margen izquierda hasta su cruce con la línea descrita anteriormente.
+Quedan excluidos los cascos urbanos de Villaseca y Villar de Sobrepeña.
