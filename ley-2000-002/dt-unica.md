@@ -1,0 +1,6 @@
+Disposición transitoria única.
+1. La Asociación Castellano-Leonesa de Podólogos designará una Comisión gestora que, dentro del plazo de seis meses desde la entrada en vigor de esta Ley, aprobará unos Estatutos provisionales del Colegio de Podólogos, en los que regulará la convocatoria y el funcionamiento de la asamblea constituyente del Colegio, a la que deberán ser convocados quienes estén inscritos en el censo de podólogos ejercientes en Castilla y León. Asimismo, la convocatoria será publicada en el «Boletín Oficial de Castilla y León».
+2. La asamblea constituyente del Colegio de Podólogos, dentro del plazo de tres meses desde la aprobación de los Estatutos provisionales deberá:
+a) Aprobar los Estatutos definitivos del Colegio.
+b) Elegir a los miembros de los órganos de gobierno del Colegio.
+3. Los Estatutos definitivos del Colegio, una vez aprobados, junto con el Certificado del Acta de la Asamblea constituyente, deberán remitirse a la Dirección General del Secretariado de la Junta y Relaciones Institucionales de la Consejería de Presidencia y Administración Territorial, para que se pronuncie sobre su legalidad y acuerde su publicación en el «Boletín Oficial de Castilla y León».
