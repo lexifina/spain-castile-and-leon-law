@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en BOCL núm. 135, de 14 de julio de 1989. Ref. BOCL-h-1989-90261
+Téngase en cuenta que el Parque de las Hoces del río Duratón pasa a denominarse Parque Natural de las Hoces del Río Duratón, según establece la disposición adicional 5 de la Ley 8/1991, de 10 de mayo. Ref. BOE-A-1991-17069
