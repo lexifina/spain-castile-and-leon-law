@@ -1,0 +1,3 @@
+Disposición transitoria única.
+Las Fundaciones que sean competencia de la Comunidad de Castilla y León en cuyos estatutos figuren disposiciones contrarias a lo dispuesto en la presente Ley, deberán efectuar las modificaciones estatutarias correspondientes en el plazo de un año desde su entrada en vigor. Transcurrido este plazo, quedarán sin efecto tales disposiciones.
+La obligación señalada en el párrafo anterior, no alcanzará a las disposiciones que resulten de general aplicación de conformidad con lo dispuesto en el artículo 149.1 de la Constitución, para las que el plazo de adaptación será el determinado por la normativa estatal sobre fundaciones.
