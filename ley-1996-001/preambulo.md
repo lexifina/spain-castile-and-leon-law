@@ -1,0 +1,9 @@
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente
+LEY
+EXPOSICIÓN DE MOTIVOS
+El Estatuto de Autonomía de Castilla y León, como norma institucional básica de la Comunidad, estableció un sistema de organización y funcionamiento de sus instituciones de autogobierno que, en sus líneas básicas, responde a lo que la doctrina científica denomina modelo parlamentario de gobierno.
+Las Cortes de Castilla y León representan directamente a los castellanos y leoneses y son el órgano en el que esencialmente radica y en cuyos actos se expresa la autonomía política de la Comunidad dentro del ámbito competencial atribuido por la Constitución y el Estatuto de Autonomía.
+Mediante la institución de la investidura, las Cortes eligen de entre los Procuradores al Presidente de la Junta de Castilla y León, y le otorgan su confianza. El Presidente ostenta la suprema representación de la Comunidad y designa libremente a los miembros de la Junta.
+En relación con la confianza, una vez otorgada, el Estatuto de Autonomía sólo regula la posibilidad de retirarla mediante la adopción de la moción de censura constructiva.
+Este diseño presenta algunas disfunciones y carencias respecto del modelo clásico al no regular otras instituciones habituales, como la cuestión de confianza o la disolución anticipada de la Cámara.
+Esta Ley, que se dicta al amparo de la competencia prevista en el artículo 26 del Estatuto de Autonomía, contribuye a completar el diseño de un sistema equilibrado de parlamentarismo racionalizado, mediante la inclusión de la cuestión de confianza y la disolución anticipada de las Cortes de Castilla y León por el Presidente de la Junta.
