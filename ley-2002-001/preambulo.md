@@ -1,0 +1,7 @@
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+El artículo 24 del Estatuto de Autonomía de Castilla y León, a partir de la reforma producida por la Ley Orgánica 4/1999, de 8 de enero, prevé el Consejo Consultivo como el superior órgano consultivo de la Comunidad Autónoma, estableciendo que una Ley de las Cortes regulará su composición y competencias.
+A cumplir estas previsiones, y hacer posible la puesta en funcionamiento de este órgano consultivo, se dirigen las previsiones de la presente Ley.
+Su título I define la naturaleza del Consejo Consultivo, el marco jurídico y fundamento del ejercicio de sus funciones, así como los criterios generales de su actuación.
+El título II regula las competencias del Consejo Consultivo, distinguiendo y detallando los supuestos en que deberá ser consultado preceptivamente por la Administración, el régimen de las consultas facultativas, y el particular de las consultas de las Corporaciones locales.
+El título III establece la organización y funcionamiento del Consejo, el Estatuto y funciones de sus distintos órganos, la previsión de sus medios personales y materiales, así como la regulación marco del instrumento en que se materializa la función consultiva, esto es, los dictámenes del Consejo Consultivo.
