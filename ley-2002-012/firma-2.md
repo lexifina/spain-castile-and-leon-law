@@ -1,0 +1,2 @@
+[Información relacionada]
+Téngase en cuenta que la cuantía de las sanciones previstas en esta Ley podrá ser actualizada, de acuerdo con el índice de precios al consumo, por Decreto de la Junta de Castilla y León publicado únicamente en el "Boletín Oficial de Castilla y León", según establece la disposición final 1 de la presente norma. Puede consultas estas actualizaciones accediendo al citado diario oficial, ya que no se encuentran recogidas en este texto consolidado.
