@@ -1,0 +1,2 @@
+Disposición adicional.
+A partir de la entrada en vigor de esta Ley, la Junta de Castilla y León modificará las disposiciones reglamentarias que procedan a fin de permitir un más fácil acceso a las Cooperativas de Castilla y León a las centrales de suministros de bienes y servicios o ejecución de obras que realizan los distintos órganos de la Administración General o Institucional de la Comunidad Autónoma.
