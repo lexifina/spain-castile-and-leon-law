@@ -1,0 +1,2 @@
+Disposición adicional.
+Al objeto de procurar el más exacto y general cumplimiento de todas las disposiciones contenidas en esta Ley y propiciar la mayor eficacia en las distintas actuaciones que en su aplicación sean llevadas a cabo, las Administraciones públicas de la Comunidad Autónoma asegurarán la máxima difusión y conocimiento de la misma, especialmente entre los jóvenes, las instituciones, los profesionales y las entidades que desarrollen su actividad en los ámbitos que la Ley contempla.
