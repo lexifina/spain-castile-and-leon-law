@@ -1,0 +1,2 @@
+Disposición final.
+La presente Ley entrará en vigor el día siguiente a su publicación en el «Boletín Oficial de Castilla y León».
