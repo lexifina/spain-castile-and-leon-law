@@ -21,17 +21,17 @@ d) Talleres de reparación de electrodomésticos, maquinaria de oficina y maquin
 e) Talleres de cualquiera de las actividades citadas en los apartados anteriores, con potencias mecánicas instaladas que no superen los 20 KW y superficie inferior a 500 m2 siempre que estén situados en polígonos industriales.
 f) Actividades industriales situadas en polígonos industriales siempre que su potencia mecánica instalada no supere los 15 KW, su superficie sea inferior a 400 m2 y que derivado de su actividad no produzca residuos catalogados como peligrosos, excepto aceites usados y grasas derivadas del mantenimiento de las máquinas utilizadas en el proceso productivo en cantidad inferior a 10 Tm/año, y por sus emisiones pueda clasificarse dentro del Grupo C de actividades potencialmente contaminadoras de la atmósfera indicadas en el Anexo II del Decreto 833/1975, de 6 de febrero, por el que se desarrolla la Ley 38/1972, de 22 de diciembre, de protección del ambiente atmosférico.
 g) Instalaciones pecuarias que no superen las UGM que se indican a continuación para cada tipo de animal de acuerdo con la tabla del Anexo I del Decreto Legislativo 1/2000, de 18 de mayo, por el que se aprueba el Texto Refundido de la Ley de Evaluación de Impacto Ambiental y Auditorías Ambientales de Castilla y León, siempre que no deban someterse a evaluación del impacto ambiental.
-UGM Tabla Ley EIA y AA | UGM
-Équidos | Más de 6 meses | 15
+«UGM-Tabla Ley EIA y AA | UGM
+Équidos. | Más de 6 meses | 15
  | Menos de 6 meses | 10
-Vacuno | Toros, Vacas y otros de más de 2 años | 15
+Vacuno. | Toros, Vacas y otros de más de 2 años | 15
  | Vacunos de más de 6 meses y hasta 2 años | 10
- | Vacunos de hasta 6 meses | 10
-Ovino caprino | Cualquier edad | 7
-Porcino | Cerdas de cría a partir de 50 kg. | 5
- | Cochinillos con un peso vivo inferior a 50 kg | 2
+ | Vacunos de hasta 6 meses. | 10
+Ovino caprino. | Cualquier edad | 7
+Porcino. | Cerdas de cría a partir de 50 kg | 5
+ | Cochinillos con un peso vivo inferior a 20 kg | 2
  | Otros cerdos | 7
-Aves de corra l | Pollos de carne | 1
+Aves de corral. | Pollos de carne | 1
  | Gallinas ponedoras | 1
  | Otros (Patos, pavos, ocas, pintadas) | 2
 h) Instalaciones apícolas con menos de 24 colmenas.
@@ -43,6 +43,7 @@ m) Actividades comerciales y de servicios en general, siempre que su potencia me
 n) Actividades de hostelería, siempre que su potencia mecánica no supere los 10 KW y su superficie sea inferior a 200 m2, excepto bares musicales, discotecas y otras actividades hosteleras con equipos de sonido.
 o) Puntos limpios, entendiendo como tal un recinto o local con instalaciones fijas con contenedores para la recogida de más de seis tipos diferentes de residuos.
 p) Plantas de transferencia de residuos urbanos.
+Se modifica la letra g) por el art. 40.2 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806.
 ANEXO III
 Proyectos de obras, instalaciones o actividades sometidos a evaluación de impacto ambiental a los que se refiere el artículo 46.1
 a) Centrales térmicas, plantas de cogeneración y otras instalaciones de combustión con potencia instalada total igual o superior a 50 Mw térmicos.
