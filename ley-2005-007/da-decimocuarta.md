@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Inspección General de Servicios.
+Mediante Decreto de la Junta de Castilla y León se regulará la organización y funcionamiento de la Inspección General de Servicios como órgano especializado de inspección sobre todos los servicios de la Administración de la Comunidad de Castilla y León, Entes y Organismos de ella dependientes.
+La Inspección General de Servicios tiene, entre sus funciones, la específica de vigilancia del estricto cumplimiento de la normativa vigente sobre todos los aspectos de la Función Pública y las Actas que, en el ejercicio de tal función, se levanten, gozarán de presunción de veracidad.
