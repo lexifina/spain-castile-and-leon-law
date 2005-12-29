@@ -1,0 +1,2 @@
+Disposición transitoria.
+Los ex Presidentes que, con arreglo a la redacción original de la Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, hubiesen ostentado la condición de Consejeros natos del Consejo Consultivo y reúnan los requisitos exigidos en esta modificación podrán incorporarse al mismo en el plazo de tres meses desde la entrada en vigor de la presente Ley.
