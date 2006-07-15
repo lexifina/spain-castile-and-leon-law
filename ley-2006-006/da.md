@@ -1,0 +1,3 @@
+Disposición adicional.
+Gestión de ayudas técnicas, económicas y financieras en las Zonas de Influencia Socioeconómica.
+Con la finalidad de aunar los criterios en defensa de los importantes valores naturales y culturales que existen en el ámbito territorial de la Reserva Natural y de la Reserva Regional de Caza de Las Lagunas de Villafáfila, así como de mejorar la calidad de vida de sus habitantes, y dado que las Zonas de Influencia Socioeconómica de dichas Reservas coinciden territorialmente, se gestionarán de forma conjunta las ayudas técnicas, económicas y financieras que se establezcan para financiar actividades en dichas Zonas con cargo a los créditos presupuestarios de la Consejería de Medio Ambiente.
