@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio para el ejercicio de la mediación familiar.
+No obstante lo establecido en el artículo 8, las personas con una formación mínima de 180 horas en mediación familiar, que acrediten haber ejercido mediación familiar con anterioridad a la entrada en vigor de la presente Ley, podrán, con independencia de su titulación académica, solicitar su inscripción en el Registro de Mediadores Familiares en las condiciones y plazo que se establezcan reglamentariamente.
