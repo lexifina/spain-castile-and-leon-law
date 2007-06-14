@@ -1,0 +1,7 @@
+Artículo 23 bis. Venta y suministro de bebidas alcohólicas a través de máquinas expendedoras.
+La venta y el suministro de bebidas alcohólicas a través de máquinas expendedoras se realizará de acuerdo con las siguientes condiciones:
+a) Se prohíbe a los menores de 18 años el uso de máquinas expendedoras de bebidas alcohólicas.
+b) Las máquinas expendedoras de bebidas alcohólicas sólo podrán ubicarse en el interior de locales, centros o establecimientos en los que no esté prohibido consumirlas, en una localización que permita la vigilancia directa y permanente de su uso por parte del titular del local o de sus trabajadores. No se podrán situar en las áreas anexas o de acceso previo a los locales, como son las zonas de cortavientos, porches, pórticos, pasillos, vestíbulos, distribuidores, escaleras, soportales o lugares similares que puedan ser parte de un inmueble pero no constituyan propiamente el interior de éste.
+c) Para garantizar el uso correcto de estas máquinas, podrán incorporarse los mecanismos técnicos adecuados que permitan impedir el acceso a los menores de edad.
+d) En la superficie frontal de las máquinas figurará de forma clara y visible, como se determine reglamentariamente, que la venta de bebidas alcohólicas está prohibida a los menores de 18 años, advirtiendo de los perjuicios para la salud derivados del abuso de bebidas alcohólicas.
+Se añade por el art. único.10 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
