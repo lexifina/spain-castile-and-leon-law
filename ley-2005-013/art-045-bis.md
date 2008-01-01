@@ -1,0 +1,4 @@
+Artículo 45 bis. Subvenciones destinadas a recuperar el potencial productivo de las explotaciones agrarias de Castilla y León.
+1. La Administración de la Comunidad podrá conceder subvenciones dirigidas a recuperar el potencial productivo de las explotaciones agrarias de Castilla y León que se haya visto afectado negativamente por los daños producidos por plagas y/u otras circunstancias climatológicamente adversas, previo establecimiento de las bases reguladoras que determinarán las líneas subvencionables y el porcentaje o importe de la subvención correspondiente a cada línea.
+2. Las subvenciones se concederán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se añade por la disposición final 1.2 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
