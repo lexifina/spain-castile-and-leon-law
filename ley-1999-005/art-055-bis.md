@@ -1,0 +1,3 @@
+Artículo 55 bis. Aprobación de planeamiento supramunicipal.
+Para las Normas Urbanísticas de Coordinación y las Normas Urbanísticas Territoriales, así como para los Planes Especiales que afecten a varios términos municipales o que no se ajusten a las previsiones del planeamiento general, se aplicará lo previsto en los artículos 50 a 54, sustituyendo las referencias al Ayuntamiento por la Consejería competente en materia de urbanismo, que podrá actuar de oficio o a propuesta de la Diputación Provincial o de los municipios interesados.
+Se añade por el art. 3.32 de la Ley 4/2008, de 15 de septiembre. Ref. BOE-A-2008-16156.
