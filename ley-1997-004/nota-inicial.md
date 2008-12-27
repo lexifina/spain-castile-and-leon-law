@@ -1,0 +1,1 @@
+Téngase en cuenta que la «Universidad S.E.K.» cambia su denominación por «IE Universidad», con sede en Segovia, según se establece en el art. único de la Ley 13/2008, de 9 de diciembre. Ref. BOE-A-2009-812
