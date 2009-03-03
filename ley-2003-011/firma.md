@@ -2,16 +2,20 @@ Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley
 Valladolid, 8 de abril de 2003.
 JUAN VICENTE HERRERA CAMPO,
 Presidente
-Téngase en cuenta que la modificación o amplicación de los anexos que a continuación se presentan, según establece la disposición final 1 de la presente ley, se actualizará por Decreto publicado en el Boletín Oficial de Castilla y León.
+Téngase en cuenta que la modificación o amplicación de los anexos que a continuación se presentan, se actualizará por Decreto publicado en el Boletín Oficial de Castilla y León, según establece la disposición final 1 de la presente ley.
 ANEXO I
 Categorías de actividades e instalaciones contempladas en el artículo 10
-Además de las categorías y actividades contempladas en el Anexo 1 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, y con los mismos criterios allí previstos, se someten al régimen de autorización ambiental las siguientes:
+A. Además de las categorías y actividades contempladas en el Anexo 1 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, y con los mismos criterios allí previstos, se someten al régimen de autorización ambiental las siguientes:
 1. Producción y transformación de metales.
-Instalaciones para el tratamiento de superficie de metales y materiales plásticos por procedimiento electrolítico o químico, cuando el volumen de las cubetas destinadas al tratamiento empleadas sea superior a 30 m3 o su capacidad de producción sea superior a 5.000 toneladas al año.
+– Instalaciones para el tratamiento de superficie de metales y materiales plásticos por procedimiento electrolítico o químico, cuando el volumen de las cubetas destinadas al tratamiento empleadas sea superior a 30 m3 o su capacidad de producción sea superior a 5.000 toneladas al año.
 2. Otras actividades.
-Instalaciones industriales destinadas a la fabricación de:
+– Instalaciones industriales destinadas a la fabricación de:
 a) Neumáticos.
 b) Vehículos automóviles.
+B. Conforme a la distribución de competencias para la tramitación y resolución de los expedientes de autorización ambiental establecidos en los artículos 12 y 20 de esta Ley, se establecen las siguientes categorías:
+B.1 Las actividades e instalaciones de los epígrafes 1 a 8, 9.1, 9.2, 10 y 11 del anejo de Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+B.2 Las actividades e instalaciones del epígrafe 9.3 del anejo de Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+Se modifica por el art. único.10 de la Ley 1/2009, de 26 de febrero. Ref. BOE-A-2009-4515.
 ANEXO II
 Actividades e instalaciones exentas de calificación e informe de las comisiones de prevención ambiental
 a) Talleres auxiliares de construcción de albañilería, escayolistería, cristalería, electricidad, fontanería, calefacción y aire acondicionado, siempre que estén ubicados en planta baja o sótano, su potencia mecánica instalada no supere los 15 KW y su superficie sea inferior a 400 m2.
