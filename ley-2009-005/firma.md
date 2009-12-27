@@ -236,39 +236,40 @@ d) Posteriormente se apagará la máquina de impactos y se realizará una medici
 e) Para la medida del tiempo de reverberación en el recinto receptor, se empleará al menos una posición de fuente y tres posiciones de micrófono. En cada posición de micrófono se tomarán al menos dos valores.
 f) El valor global del nivel de presión de ruido de impacto estandarizado, L'nT (dB), se calculará según lo establecido en la Norma UNE EN ISO 717-2:1997 o norma que la sustituya.
 ANEXO VI
-Requisitos de autorización de entidades de evaluación acústica (EEA)
-1. De acuerdo con el artículo 18 de esta ley, los requisitos que deben cumplir las Entidades de Evaluación Acústica para ser autorizadas por la Consejería competente en materia de medio ambiente, en cada uno de los campos en los que desarrollen su actividad, son los siguientes:
-1.1 Instrumentación.
-a. Medida de niveles sonoros: Deberá disponerse, como mínimo, de la siguiente instrumentación:
-Sonómetro o analizador clase 1.
-Calibrador/verificador clase 1.
-Anemómetro.
-Termómetro.
-Higrómetro.
+Requisitos de las entidades de evaluación acústica (EEA) para el ejercicio de la actividad
+1. De acuerdo con el artículo 18 de esta Ley, los requisitos que deben cumplir las Entidades de Evaluación Acústica para ejercer en cada uno de los campos en los que desarrollen su actividad, son los siguientes:
+1.1. Instrumentación.
+a. Medida de niveles sonoros: Deberá disponerse, como mínimo de la siguiente instrumentación:
+– Sonómetro o analizador clase 1.
+– Calibrador/verificador clase 1.
+– Anemómetro.
+– Termómetro.
+– Higrómetro.
 b. Medida de aislamientos acústicos: Deberá disponerse, como mínimo, de la siguiente instrumentación:
-Analizador clase 1 con capacidad de medir en bandas de 1/3 de octava.
-Calibrador/verificador clase 1.
-Generador de ruido rosa y ruido blanco.
-Amplificador.
-Fuente sonora cumpliendo los requisitos de la norma UNE EN ISO 140-4:1999.
+– Analizador clase 1 con capacidad de medir en bandas de 1/3 de octava.
+– Calibrador/verificador clase 1.
+– Generador de ruido rosa y ruido blanco.
+– Amplificador.
+– Fuente sonora cumpliendo los requisitos de la Norma UNE EN ISO 140-4:1999.
 c. Medida de vibraciones: Deberá disponerse, como mínimo, de la siguiente instrumentación:
-Equipos de medida que cumplan las exigencias de establecidas en la norma UNE EN ISO 8041:2006 «Respuesta humana a las vibraciones. Instrumentos de medida» o norma que la sustituya.
-d. Predicción de niveles sonoros: Hasta tanto no se definan los modelos predictivos reglamentarios se deberá disponer de un software que incluya los métodos de cálculo establecidos en el apartado 2, del anexo II del Real Decreto 1513/2005, de 16 de diciembre.
+– Equipos de medida que cumplan las exigencias establecidas en la Norma UNE EN ISO 8041:2006 "Respuesta humana a las vibraciones. Instrumentos de medida" o norma que la sustituya.
+d. Predicción de niveles sonoros: Hasta tanto no se definan los modelos predictivos reglamentarios se deberá disponer de un software que incluya los métodos de cálculo establecidos en el apartado 2, del Anexo II del Real Decreto 1513/2005, de 16 de diciembre.
 e. Medida de tiempos de reverberación: Deberá disponerse, como mínimo, de la siguiente instrumentación:
-Analizador clase 1 con capacidad de medir en bandas de 1/3 de octava.
-Calibrador/verificador clase 1.
-Generador de ruido rosa y ruido blanco.
-Amplificador.
-Fuente sonora cumpliendo los requisitos de la norma UNE EN ISO 3382:2001 o norma que la sustituya.
+– Analizador clase 1 con capacidad de medir en bandas de 1/3 de octava.
+– Calibrador/verificador clase 1.
+– Generador de ruido rosa y ruido blanco.
+– Amplificador.
+– Fuente sonora cumpliendo los requisitos de la Norma UNE EN ISO 3382:2001 o norma que la sustituya.
 Los sonómetros, analizadores y calibradores deberán ser verificados anualmente y tener actualizado el correspondiente certificado de verificación periódica, en el cual se acredite el cumplimiento de lo estipulado en la Orden ITC/2845/2007, de 25 de septiembre, por la que se regula el control metrológico del Estado de los instrumentos destinados a la medición de sonido audible y de los calibradores acústicos o norma que la sustituya. De forma paralela, todo el instrumental destinado a la medida del ruido deberá mantener al día una calibración trazada anual.
-1.2 Requisitos técnicos.
-Para obtener la autorización para actuar en los campos de medida de niveles sonoros, de aislamientos acústicos, y de vibraciones y de tiempos de reverberación, los Laboratorios de ensayo y las Entidades de inspección deberán estar acreditadas por la Entidad Nacional de Acreditación (ENAC).
-Los Laboratorios y Entidades de inspección deberán contemplar en su alcance de acreditación ENAC el o los campos para los que solicitan la autorización.
-1.3 Seguro de responsabilidad civil.
+1.2. Requisitos técnicos.
+Para actuar en los campos de medida de niveles sonoros, de aislamientos acústicos, y de vibraciones y de tiempos de reverberación, los Laboratorios de ensayo y las Entidades de inspección deberán estar acreditados por la Entidad Nacional de Acreditación (ENAC).
+Los Laboratorios y Entidades de inspección deberán contemplar en su alcance de acreditación ENAC el o los campos en los que se ejerce la actividad.
+1.3. Seguro de responsabilidad civil.
 Las Entidades de Evaluación Acústica deberán contratar un seguro de responsabilidad civil superior a 60.000 euros, incrementándose anualmente según la variación del IPC.
-2. De conformidad con lo establecido en el artículo 18.6 de la ley, las Entidades de Evaluación Acústica autorizadas llevarán un Libro de registro y, en su caso, un Libro de acreditación con el contenido que se especifica a continuación:
+2. De conformidad con lo establecido en el artículo 18.6 de la Ley, las Entidades de Evaluación Acústica llevarán un Libro de registro y, en su caso, un Libro de acreditación con el contenido que se especifica a continuación:
 a) Libro de registro: en él se incluirá, para cada medición realizada, un número de referencia, los datos del peticionario y de la actividad evaluada, las fechas de encargo y entrega de resultados y el tipo de mediciones realizadas.
 b) Libro de acreditación: en él se incluirán los datos sobre la identificación de la empresa (nombre, dirección y fecha de acreditación), así como los relativos al personal y a la instrumentación que emplean.
+Se modifica por el art. 9.5 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
 ANEXO VII
 Contenido mínimo de los proyectos acústicos
 1. De acuerdo con el artículo 30 de la ley, los proyectos acústicos relativos a actividades sujetas al régimen de autorización ambiental, de licencia ambiental o de evaluación de impacto ambiental, deberán tener el siguiente contenido:
