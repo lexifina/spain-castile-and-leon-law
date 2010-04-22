@@ -1,0 +1,2 @@
+Disposición transitoria. Implantación de la Administración electrónica.
+La implantación de los medios electrónicos a los que se refiere el artículo 43.1 se efectuará de forma progresiva, de conformidad con lo que establece la disposición final tercera, apartado 3, de la Ley 11/2007, de 22 de junio, por lo que los derechos reconocidos en el artículo 6 de dicha ley solo podrán ser ejercidos en relación con los procedimientos y actuaciones competencia de la Comunidad en los que se haya producido la implantación electrónica.
