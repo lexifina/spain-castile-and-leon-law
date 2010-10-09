@@ -1,0 +1,2 @@
+Disposición adicional única. Intervención de los profesionales sanitarios en los proyectos sometidos a instrumentos de prevención ambiental.
+La intervención de los profesionales sanitarios en los proyectos sometidos a instrumentos de prevención ambiental, en cumplimiento de la normativa de prevención ambiental, se ceñirá a la emisión de los correspondientes informes, con el fin de analizar las condiciones, requisitos y obligaciones que han de cumplir dichas actividades o proyectos desde el punto de vista sanitario sin perjuicio de las competencias de prevención ambiental.
