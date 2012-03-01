@@ -2,7 +2,8 @@ Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley
 Valladolid, 4 de junio de 2009. El Presidente de la Junta de Castilla y León, Juan Vicente Herrera Campo.
 ANEXO I
 Valores límite de niveles sonoros producidos por emisores acústicos
-1. Límite de emisión. Ninguna instalación, establecimiento, maquinaria, actividad o comportamiento, podrán emitir más de 95 dB(A) a 1,5 metros de distancia, exceptuando lo establecido en esta ley o en la normativa sectorial que les resulte de aplicación.
+1. Límite de emisión, Ninguna instalación, establecimiento, maquinaria, actividad o comportamiento, podrán emitir más de 95 dB (A) a 1,5 metros de distancia, exceptuando lo establecido en esta Ley o en la normativa sectorial que les resulte de aplicación.
+No obstante lo anterior, el valor limite indicado podrá ser superado si se demuestra que técnicamente no existe otra solución económicamente viable y de la evaluación ambiental de sus efectos no se aprecian perjuicios significativos en el entorno. En este último caso, no será de aplicación el apartado segundo de este anexo.
 2. Límite de inmisión en exteriores.
 A. Ninguna instalación, establecimiento, maquinaria, actividad o comportamiento podrán transmitir al medio ambiente exterior, niveles sonoros superiores a los indicados en el siguiente cuadro, medidos conforme al Anexo V.1:
 Área receptora exterior | LAeq 5 s dB(A)*
@@ -43,6 +44,7 @@ Uso comercial | 55 | 55
 En las zonas de usos comunes correspondientes a las áreas indicadas anteriormente, los límites serán 10 dB(A) superiores al valor más restrictivo.
 4. Si el nivel de ruido de fondo es superior a los límites aplicables, este nivel sonoro se considerará el nuevo límite aplicable.
 5. En los locales en los que se originen ruidos de impacto no podrán transmitirse a las viviendas colindantes valores de nivel global de presión de ruido de impactos estandarizado, L'nT, superiores a 40 dB en horario diurno y de 30 dB en horario nocturno, medidos según se indica en el Anexo V.5.
+Se modifica el apartado 1 por la disposición final 24 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385.
 ANEXO II
 Valores límite de niveles sonoros ambientales
 1. En las áreas urbanizadas, situación nueva, el ruido ambiental no podrá superar los siguientes valores:
