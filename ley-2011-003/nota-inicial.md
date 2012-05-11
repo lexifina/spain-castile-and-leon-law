@@ -1,0 +1,1 @@
+Téngase en cuenta que la «Universidad Privada Internacional de Burgos» cambia su denominación por «Universidad Internacional Isabel I de Castilla», con sede en Burgos, según establece el art. único de la Ley 2/2012, de 27 de abril. Ref. BOE-A-2012-6695
