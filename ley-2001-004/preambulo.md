@@ -7,5 +7,6 @@ El presente texto legislativo tiene por objeto, por un lado, dar cumplimiento al
 La Ley se estructura en un título I que contiene las disposiciones generales del ejercicio de la iniciativa legislativa popular y de los Ayuntamientos, las materias excluidas, las causas de inadmisión y los recursos contra la misma.
 El título II regula la iniciativa legislativa popular: Iniciación del procedimiento, escrito de presentación, Comisión Promotora y la garantía de las firmas, que expresan la voluntad legislativa.
 En el título III se establece la iniciativa legislativa de los Ayuntamientos, novedosa con respecto a la legislación estatal y regulada en cuanto a su inicio de forma similar a la anterior.
-Y el título IV indica el modo elegido para la tramitación parlamentaria, mediante la consideración del ejercicio de la iniciativa, la lectura de la memoria y el debate como proposición de Ley. También se prima como excepción a esta iniciativa legislativa su pervivencia de una legislatura a la siguiente.
+Y el título cuarto indica el modo elegido para la tramitación parlamentaria, mediante la consideración del ejercicio de la iniciativa y su debate como Proposición de Ley. También se prima como excepción a esta iniciativa legislativa su pervivencia de una legislatura a la siguiente.
 Con la aprobación de esta Ley por las Cortes de Castilla y León se consigue acercar más las Leyes a los ciudadanos.
+Se modifica el penúltimo párrafo por el art. único.1 de la Ley 3/2012, de 5 de julio. Ref. BOE-A-2012-10157.
