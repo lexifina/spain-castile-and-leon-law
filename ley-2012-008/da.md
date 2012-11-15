@@ -1,0 +1,2 @@
+Disposición adicional. Integración de otros profesionales.
+Los periodistas que figuren inscritos en el Registro Profesional de Periodistas de la Federación de Asociaciones de Periodistas de España, así como los miembros de las asociaciones promotoras incluidos en dicho Registro, en el momento de la entrada en vigor de esta ley, podrán formar parte del Colegio aunque no cumplan los requisitos de titulación previstos en el artículo 3 de la presente Ley.
