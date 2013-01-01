@@ -1,0 +1,1 @@
+Téngase en cuenta que la "Sociedad Pública de Medio Ambiente de Castilla y León S.A.", pasa a denominarse «Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León, S.A.", según se establece en la disposición final 3.1 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665.
