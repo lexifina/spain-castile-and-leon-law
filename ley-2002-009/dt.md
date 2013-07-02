@@ -1,2 +1,3 @@
 Disposición transitoria.
-Los procedimientos, relativos a los proyectos incluidos en el ámbito de aplicación de la presente Ley, que se estén tramitando como Proyectos Regionales al amparo de la Ley 10/1998, de 5 de diciembre, de Ordenación del Territorio de la Comunidad de Castilla y León, se entenderán concluidos, cualquiera que sea la fase de tramitación en que se encuentren, con la declaración por ley de Proyecto Regional.
+(Anulada).
+Se declara la inconstitucionalidad y nulidad por Sentencia TC 129/2013, de 4 de junio. Ref. BOE-A-2013-7205.

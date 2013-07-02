@@ -1,4 +1,3 @@
 Disposición adicional.
-1. La planta de transferencia, de tratamiento físico-químico y depósito de seguridad, ubicada en el término municipal de Santovenia de Pisuerga (Valladolid), se declara Proyecto Regional, con el contenido que se describe en el anexo. Los efectos de la presente declaración serán los previstos en esta Ley, lo que implica la aptitud para su inmediato funcionamiento, así como para la ejecución de las actividades y de los actos de uso del suelo previstos en el proyecto.
-2. El control ambiental de las instalaciones a las que se refiere el apartado anterior, se realizará de acuerdo con la Declaración de Impacto Ambiental aprobada, que determina los requerimientos ambientales para su funcionamiento.
-3. Los terrenos afectados por el depósito de seguridad, conforme a la documentación referida en el anexo, se clasifican como suelo rústico de protección de infraestructuras.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia TC 129/2013, de 4 de junio. Ref. BOE-A-2013-7205.
