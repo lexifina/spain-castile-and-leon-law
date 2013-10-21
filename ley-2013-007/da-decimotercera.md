@@ -1,0 +1,4 @@
+Disposición adicional decimotercera. Convergencia territorial.
+La elaboración del Plan Plurianual de Convergencia Interior previsto en la disposición adicional segunda del Estatuto de Autonomía, y la regulación del Fondo Autonómico de Compensación establecido en el artículo 78 del mismo, se efectuarán cuando el Producto Interior Bruto regional crezca por encima del dos por ciento interanual.
+El Plan Plurianual se someterá a la aprobación mediante Acuerdo de las Cortes de Castilla y León por mayoría de dos tercios y será publicado en el «Boletín Oficial de Castilla y León».
+La regulación del Fondo Autonómico de Compensación podrá tener en cuenta el mapa de las unidades básicas de ordenación y servicios del territorio, incluyendo, en todo caso, aquellos espacios delimitados como áreas funcionales estratégicas.

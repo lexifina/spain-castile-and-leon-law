@@ -1,0 +1,3 @@
+Disposición adicional decimoprimera. Reestructuración de los puestos de trabajo de funcionarios con habilitación de carácter estatal sostenidos en común.
+En el plazo de un año desde la entrada en vigor de esta ley, se deberán reestructurar los actuales puestos de trabajo de funcionarios con habilitación de carácter estatal sostenidos en común por varios municipios, de forma que los nuevos puestos atiendan a municipios con una población mínima conjunta de 500 habitantes o tengan un presupuesto anual global superior a 500.000 euros.
+El procedimiento a tales efectos, será el previsto en la disposición adicional novena.
