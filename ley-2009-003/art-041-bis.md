@@ -1,0 +1,3 @@
+Artículo 41 bis. Modelos selvícolas.
+La consejería competente en materia de montes podrá aprobar referentes selvícolas, entendiendo como tales a la relación ordenada y cuantificada de las actuaciones forestales a llevar a cabo para garantizar una gestión forestal sostenible de las diferentes formaciones en montes de superficie inferior a 100 hectáreas, así como los procedimientos de adhesión a los mismos que conlleven un compromiso de seguimiento por parte de sus titulares. Dichos referentes selvícolas tendrán la consideración de instrumentos de ordenación forestal, de acuerdo con lo previsto en el artículo 38.
+Se añade por la disposición final 6.1 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839.
