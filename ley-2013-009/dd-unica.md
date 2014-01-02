@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o menor rango se opongan a lo dispuesto en esta ley. En particular, quedan derogados los artículos 19 a 39 del título II, el título IV (artículos 43 a 55), el artículo 59, los apartados 1 a 14 y 18 a 21 del artículo 60, los apartados 1, 2, 5, 9, 10, 14, 15, 16, 17, 19 y 20 del artículo 61, los apartados 1, 2, 3, 8 y 9 del artículo 62 y el artículo 68 de la Ley 6/1992, de 18 de diciembre, de Protección de los Ecosistemas Acuáticos y de Regulación de la Pesca en Castilla y León.
