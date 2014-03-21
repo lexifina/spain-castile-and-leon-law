@@ -1,0 +1,2 @@
+Disposición adicional única. Referencias a la normativa sobre concentración parcelaria en la Ley 11/2006, del Patrimonio de la Comunidad de Castilla y León.
+Las referencias a la Ley 14/1990, de 28 de noviembre, de Concentración Parcelaria de Castilla y León, previstas en la disposición adicional tercera de la Ley 11/2006, de 26 de octubre, del Patrimonio de la Comunidad de Castilla y León, se entenderán realizadas al Título II del Libro Segundo de la presente ley.
