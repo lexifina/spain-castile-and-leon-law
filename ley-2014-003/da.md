@@ -1,0 +1,2 @@
+Disposición adicional. Centros docentes privados concertados.
+De acuerdo con lo establecido en el artículo 108.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en los centros docentes privados concertados la condición de autoridad de su personal docente se reconocerá exclusivamente a efectos de garantizar la prestación del servicio público educativo, teniendo en cuenta tanto la cualidad de la relación laboral de dicho personal como la autonomía de que disponen los centros para establecer sus normas de organización y funcionamiento en el marco de la normativa vigente.
