@@ -1,0 +1,1 @@
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 25.5 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente ley.
