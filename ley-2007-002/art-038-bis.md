@@ -1,0 +1,3 @@
+Artículo 38 bis. Del personal que ocupe puestos directivos.
+El personal funcionario, estatutario o laboral de cualquier Administración Pública que pase a ocupar un puesto directivo en los centros e instituciones sanitarias de la Gerencia Regional de Salud, desde otro puesto que no tuviera este carácter directivo, no podrá percibir retribuciones inferiores a las que pudieran corresponderle en su puesto de trabajo público de origen, tomando como referencia el conjunto de retribuciones fijas y periódicas del puesto de trabajo dentro del año inmediatamente anterior a su nombramiento.
+Se añade por el art. 3.6 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
