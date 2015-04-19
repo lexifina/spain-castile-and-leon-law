@@ -1,0 +1,2 @@
+Disposición transitoria. Régimen transitorio de las funciones del órgano regional de participación.
+En tanto se regule la composición y funcionamiento del órgano regional de participación, sus funciones serán desarrolladas por el Consejo Regional de Espacios Naturales Protegidos de Castilla y León en lo referente a las Áreas Protegidas y por el Consejo Asesor de Medio Ambiente en lo referente a la conservación de taxones y hábitats naturales.
