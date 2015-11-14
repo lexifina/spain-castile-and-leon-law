@@ -1,2 +1,0 @@
-Disposición adicional única.
-La Junta de Castilla y León podrá delegar, mediante Decreto, el ejercicio de sus competencias en la materia de calificación e informe por parte de las Comisiones Territoriales de Prevención Ambiental respecto a las actividades sujetas a licencia ambiental, en los Ayuntamientos que cuenten con instrumento de planeamiento general, así como en las Comarcas legalmente reconocidas, siempre que los mismos cuenten con servicios técnicos adecuados y previa petición expresa de éstos.
