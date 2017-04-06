@@ -1,0 +1,2 @@
+Disposición adicional. Persona responsable de la dirección y conservación del parque natural.
+La consejería competente en materia de conservación del patrimonio natural nombrará, entre su personal funcionario, a la persona responsable de la dirección y conservación del Parque Natural Lago de Sanabria y sierras Segundera y de Porto, en el plazo de tres meses desde la entrada en vigor de la presente ley.
