@@ -1,0 +1,3 @@
+Disposición transitoria. Régimen transitorio de los procedimientos.
+Los procedimientos iniciados con anterioridad a la entrada en vigor de esta ley, relativos a ampliación, reducción y horarios especiales, al derecho de admisión, a juegos y apuestas y montes, pendientes de resolución, se regirán por lo dispuesto en la normativa vigente en el momento de presentación de la solicitud.
+No obstante, les será de aplicación lo dispuesto en esta ley, siempre que el interesado desista de su solicitud y presente la correspondiente declaración responsable o comunicación, en los términos establecidos en esta ley.
