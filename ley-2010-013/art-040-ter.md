@@ -1,0 +1,3 @@
+Artículo 40 ter. Garantía de acceso a estudios universitarios.
+La Administración de la Comunidad de Castilla y León garantizará el acceso gratuito a los estudios universitarios conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, así como a los servicios complementarios en las universidades públicas de Castilla y León a los estudiantes que sean hijos o hijas de mujeres fallecidas por violencia de género, en las condiciones que se establezcan reglamentariamente.
+Se añade por la disposición final 4 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
