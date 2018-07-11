@@ -48,6 +48,7 @@ Código provincia | Código municipio | Municipio
 09 | 221 | Modúbar de la Emparedada.
 09 | 241 | Orbaneja Riopico.
 09 | 259 | Pedrosa de Río Úrbel.
+09 | 287 | Quintanaortuño.
 09 | 288 | Quintanapalla.
 09 | 297 | Quintanillas, Las.
 09 | 301 | Quintanilla Vivar.
@@ -65,7 +66,7 @@ Código provincia | Código municipio | Municipio
 09 | 904 | Valle de las Navas.
 09 | 906 | Merindad de Río Ubierna.
 09 | 907 | Alfoz de Quintanadueñas.
-Código Afe: AD03. Denominación: Área Funcional Estable de Aranda de Duero
+Código AFE: AD03. Denominación: Área funcional estable de Aranda de Duero
 Código provincia | Código municipio | Municipio
 09 | 018 | Aranda de Duero.
 09 | 035 | Baños de Valdearados.
@@ -87,10 +88,11 @@ Código provincia | Código municipio | Municipio
 09 | 345 | Santa Cruz de la Salceda.
 09 | 387 | Torregalindo.
 09 | 400 | Vadocondes.
+09 | 421 | La Vid y Barrios.
 09 | 438 | Villalba de Duero.
 09 | 451 | Villanueva de Gumiel.
 09 | 483 | Zazuar.
-Código AFE: ME04. Denominación: Área Funcional Estable de Miranda de Ebro
+Código AFE: ME04. Denominación: Área funcional estable de Miranda de Ebro
 Código provincia | Código municipio | Municipio
 09 | 219 | Miranda de Ebro.
 09 | 016 | Ameyugo.
@@ -101,7 +103,7 @@ Código provincia | Código municipio | Municipio
 09 | 276 | La Puebla de Arganzón.
 09 | 347 | Santa Gadea del Cid.
 Provincia de León
-Código AFE: LE05. Denominación: Área Funcional Estable de León
+Código AFE: LE05. Denominación: Área funcional estable de León
 Código provincia | Código municipio | Municipio
 24 | 089 | León.
 24 | 142 | San Andrés del Rabanedo.
@@ -119,7 +121,7 @@ Código provincia | Código municipio | Municipio
 24 | 222 | Villaquilambre.
 24 | 225 | Villasabariego.
 24 | 227 | Villaturiel.
-Código AFE: PO06. Denominación: Área Funcional Estable de Ponferrada
+Código AFE: PO06. Denominación: Área funcional estable de Ponferrada
 Código provincia | Código municipio | Municipio
 24 | 115 | Ponferrada.
 24 | 007 | Arganza.
@@ -138,7 +140,7 @@ Código provincia | Código municipio | Municipio
 24 | 143 | Sancedo.
 24 | 206 | Toral de los Vados.
 Provincia de Palencia
-Código AFE: PA07. Denominación: Área Funcional Estable de Palencia
+Código AFE: PA07. Denominación: Área funcional estable de Palencia
 Código provincia | Código municipio | Municipio
 34 | 120 | Palencia.
 34 | 018 | Autilla del Pino.
@@ -161,7 +163,7 @@ Código provincia | Código municipio | Municipio
 34 | 225 | Villamuriel de Cerrato.
 34 | 237 | Villaumbrales.
 Provincia de Salamanca
-Código AFE: SA08. Denominación: Área Funcional Estable de Salamanca
+Código AFE: SA08. Denominación: Área funcional estable de Salamanca
 Código provincia | Código municipio | Municipio.
 37 | 274 | Salamanca.
 37 | 016 | Aldealengua.
@@ -188,7 +190,7 @@ Código provincia | Código municipio | Municipio.
 37 | 354 | Villamayor.
 37 | 362 | Villares de la Reina.
 Provincia de Segovia
-Código AFE: SG09. Denominación: Área Funcional Estable de Segovia
+Código AFE: SG09. Denominación: Área funcional estable de Segovia
 Código provincia | Código municipio | Municipio
 40 | 194 | Segovia.
 40 | 001 | Abades.
@@ -218,7 +220,7 @@ Código provincia | Código municipio | Municipio
 40 | 904 | Navas de Riofrío.
 40 | 906 | San Cristóbal de Segovia.
 Provincia de Soria
-Código AFE: SO10. Denominación: Área Funcional Estable de Soria
+Código AFE: SO10. Denominación: Área funcional estable de Soria
 Código provincia | Código municipio | Municipio
 42 | 173 | Soria.
 42 | 006 | Alconaba.
@@ -236,7 +238,7 @@ Código provincia | Código municipio | Municipio
 42 | 201 | Velilla de la Sierra.
 42 | 205 | Villaciervos.
 Provincia de Valladolid
-Código AFE: VA11. Denominación: Área Funcional Estable de Valladolid
+Código AFE: VA11. Denominación: Área funcional estable de Valladolid
 Código provincia | Código municipio | Municipio
 47 | 186 | Valladolid.
 47 | 076 | Laguna de Duero.
@@ -263,7 +265,7 @@ Código provincia | Código municipio | Municipio
 47 | 218 | Villanueva de Duero.
 47 | 230 | Wamba.
 47 | 231 | Zaratán.
-Código AFE: MC12. Denominación: Área Funcional Estable de Medina del Campo
+Código AFE: MC12. Denominación: Área funcional estable de Medina del Campo
 Código provincia | Código municipio | Municipio
 47 | 085 | Medina del Campo.
 47 | 020 | Bobadilla del Campo.
@@ -287,7 +289,7 @@ Código provincia | Código municipio | Municipio
 47 | 228 | Villaverde de Medina.
 47 | 232 | Zarza, La.
 Provincia de Zamora
-Código AFE: ZA13. Denominación: Área Funcional Estable de Zamora
+Código AFE: ZA13. Denominación: Área funcional estable de Zamora
 Código provincia | Código municipio | Municipio
 49 | 275 | Zamora.
 49 | 006 | Algodre.
@@ -317,3 +319,27 @@ Código provincia | Código municipio | Municipio
 49 | 227 | Valcabado.
 49 | 245 | Villalazán.
 49 | 261 | Villaralbo.
+Código AFE: BE14. Denominación: Área funcional estable de Benavente
+Código provincia | Código municipio | Municipio
+49 | 021 | Benavente.
+49 | 011 | Arcos de la Polvorosa.
+49 | 041 | Castrogonzalo.
+49 | 082 | Fuentes de Ropel.
+49 | 109 | Manganeses de la Polvorosa.
+49 | 187 | San Cristóbal de Entreviñas.
+49 | 199 | Santa Colomba de las Monjas.
+49 | 200 | Santa Cristina de la Polvorosa.
+49 | 238 | Villabrázaro.
+49 | 257 | Villanueva de Azoague.
+49 | 019 | Barcial del Barco.
+49 | 113 | Matilla de Arzón.
+49 | 118 | Milles de la Polvorosa.
+49 | 128 | Morales de Rey.
+49 | 171 | Quiruelas de Vidriales.
+49 | 188 | San Esteban del Molar.
+49 | 220 | La Torre del Valle.
+49 | 229 | Valdescorriel.
+49 | 236 | Vidayanes.
+49 | 256 | Villanázar.
+49 | 271 | Villaveza del Agua.
+Se modifica por el art. único y Anexo de la Ley 5/2018, de 2 de julio. Ref. BOE-A-2018-11416
