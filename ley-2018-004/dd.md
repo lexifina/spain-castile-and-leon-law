@@ -1,0 +1,7 @@
+Disposición derogatoria. Derogación normativa.
+1. Quedan derogadas todas las normas de igual o inferior rango en lo que se opongan a lo previsto en esa ley.
+2. Quedan derogadas expresamente las siguientes disposiciones:
+a) Los artículos 3, 5, 6,7 y las disposiciones adicionales primera y segunda, del Decreto-Ley 2/2013, de 21 de noviembre, por el que se adoptan medidas extraordinarias de apoyo a las personas y familias afectadas por la crisis en situación de vulnerabilidad o riesgo de exclusión social en Castilla y León.
+b) La disposición adicional única del texto refundido de las normas vigentes en materia de condiciones de acceso y disfrute de la prestación de renta garantizada de ciudadanía de Castilla y León, aprobado por el Decreto Legislativo 1/2014, de 27 de febrero.
+c) Las medidas previstas en el artículo 2, en lo que a la prestación de renta garantizada de ciudadanía se refiere, de la Ley 4/2016, de 23 de diciembre, por la que se adoptan medidas para reforzar la cobertura de las necesidades de atención social en el ámbito de la Red de Protección a las familias de Castilla y León afectadas por la crisis.
+d) Disposición adicional primera, Coordinación de medidas y recursos: Que crea La Red de Protección del Decreto-ley 2/2013, de 21 de noviembre, por el que se adoptan medidas extraordinarias de apoyo a las personas y familias afectadas por la crisis en situación de vulnerabilidad o riesgo de exclusión social en Castilla y León.

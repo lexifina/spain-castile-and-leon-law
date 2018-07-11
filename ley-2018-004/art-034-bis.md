@@ -1,0 +1,4 @@
+Artículo 34 bis. Incorporación de aspectos sociales en el gasto público.
+1. La Administración de la Comunidad adoptará criterios de responsabilidad social en la gestión del gasto público y promoverá su aplicación en el conjunto de las administraciones públicas de Castilla y León.
+2. En el marco de la legislación de contratación pública, las Administraciones de la Comunidad garantizarán una contratación pública socialmente responsable, mediante la incorporación de medidas como el fomento del empleo de personas en situación o riesgo de exclusión social, la inserción laboral de personas con discapacidad, el fomento de la estabilidad en el empleo, la promoción de la igualdad efectiva entre mujeres y hombres y el impulso de medidas de conciliación de la vida personal, familiar y laboral.
+Asimismo, se adoptarán medidas dirigidas a garantizar la reserva de contratos a centros especiales de empleo de iniciativa social y a empresas de inserción.
