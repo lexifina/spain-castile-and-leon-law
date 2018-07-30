@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o menor rango se opongan a lo dispuesto en esta ley, en particular quedan derogados del Decreto 84/2005, de 10 de noviembre, por el que se aprueban las Normas Marco a las que han de ajustarse los Reglamentos de las Policías Locales en el ámbito de la Comunidad de Castilla y León, el apartado e) del artículo 17, los artículos 123, 124, 125, 126, 127, 128, 129, 130, 131, 133, 135, 136, 137, 138, 139, 140, 142, 143, 144 y 145 y la disposición adicional quinta.
