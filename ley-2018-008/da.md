@@ -1,0 +1,2 @@
+Disposición adicional. Cámaras Oficiales de Comercio, Industria y Servicios de Castilla y León.
+Sin perjuicio de lo que se establece en el capítulo II de esta ley, las Cámaras de Ávila, Arévalo, Burgos, Briviesca, Miranda de Ebro, León, Astorga, Palencia, Salamanca, Béjar, Segovia, Soria, Valladolid y Zamora, existentes en el momento de la entrada en vigor de esta ley, continúan en el ejercicio de las funciones asignadas legalmente y con el actual ámbito territorial.
