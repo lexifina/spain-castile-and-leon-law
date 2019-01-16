@@ -1,0 +1,2 @@
+Disposición adicional. Remisiones normativas.
+Las referencias normativas efectuadas en otras disposiciones al Decreto Legislativo 1/2014, de 27 de febrero, por el que se aprueba el texto refundido de las normas legales vigentes en materia de condiciones de acceso y disfrute de la prestación esencial de renta garantizada de ciudadanía de Castilla y León, se entenderán hechas al presente texto refundido de las normas legales vigentes en materia de condiciones de acceso y disfrute de la prestación de renta garantizada de ciudadanía de Castilla y León.

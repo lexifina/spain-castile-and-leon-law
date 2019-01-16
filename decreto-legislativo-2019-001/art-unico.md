@@ -1,0 +1,2 @@
+Artículo único. Aprobación del texto refundido de las normas legales vigentes en materia de condiciones de acceso y disfrute de la prestación de renta garantizada de ciudadanía de Castilla y León.
+Se aprueba el texto refundido de las normas legales vigentes en materia de condiciones de acceso y disfrute de la prestación de renta garantizada de ciudadanía de Castilla y León, que se inserta a continuación.

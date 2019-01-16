@@ -1,0 +1,2 @@
+Disposición adicional. Prestaciones destinadas a la atención de personas refugiadas y asiladas.
+En el caso de personas refugiadas o asiladas en Castilla y León, la prestación de renta garantizada de ciudadanía destinada a su atención que les sea reconocida, podrá ser percibida a través de terceras personas, preferentemente entidades sin ánimo de lucro que formen parte del sistema de servicios sociales de responsabilidad pública.
