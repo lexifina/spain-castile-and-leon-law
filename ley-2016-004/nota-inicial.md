@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el BOCYL núm. 61, de 29 de marzo de 2017. Ref. BOCL-h-2017-90311
+Norma derogada, con efectos desde el 16 de enero de 2019, en lo que se refiere a las medidas de acceso a la prestación de renta garantizada, por la disposición derogatoria .c) del Decreto Legislativo 1/2019, de 10 de enero. Ref. BOCL-h-2019-90258#dd
