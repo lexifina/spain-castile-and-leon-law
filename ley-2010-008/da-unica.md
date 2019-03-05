@@ -1,0 +1,3 @@
+Disposición adicional única. Transporte a demanda en los supuestos de carencia de profesionales.
+En aquellos casos en los que la carencia de profesionales dificulte la prestación de la asistencia en el ámbito de atención primaria que se desarrolla en los Consultorios Locales, la Gerencia Regional de Salud prestará, de forma gratuita, los servicios de transporte que sean necesarios para que los usuarios afectados puedan ser atendidos en su Centro de Salud o en otro Consultorio Local adscrito a la Zona Básica de Salud respectiva.
+Se añade por el art. 8 del Decreto-ley 1/2019, de 28 de febrero. Ref. BOCL-h-2019-90340#ar-8
