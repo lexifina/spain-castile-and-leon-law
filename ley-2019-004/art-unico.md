@@ -1,0 +1,6 @@
+Artículo único. Modificación del Anexo de Personal Estatutario Sanitario recogido en la Ley 2/2007, de 7 de marzo, del Estatuto Jurídico del Personal Estatutario del Servicio de Salud de Castilla y León.
+— Se incluye dentro de los Licenciados con título de especialista en Ciencias de la Salud la categoría de «Médico de Cuidados Paliativos».
+— Se incluye en la «Descripción de las funciones más relevantes de las distintas categorías de personal estatutario sanitario» la siguiente redacción:
+En el apartado de Licenciados con título de Especialista en Ciencias de la Salud:
+«Categoría Médico de Cuidados Paliativos.
+Prestar asistencia sanitaria integral, individualizada y continuada, tanto de carácter preventivo como asistencial, docente, investigador o administrativo, y en general todas aquellas actividades encaminadas a la mejor atención de los/las pacientes con patologías que precisen de cuidados paliativos. Esta atención se prestará tanto en el domicilio del paciente como en el centro sanitario garantizando la continuidad asistencial y la coordinación con el resto de los servicios/unidades del hospital, así como con la atención primaria estableciendo los cauces de comunicación necesarios. Cualquier otra función relacionada con las descritas que se les asigne reglamentariamente o venga determinada por una más eficiente gestión».
