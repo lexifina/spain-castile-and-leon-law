@@ -8,6 +8,7 @@ Personal Estatutario Sanitario
 Licenciados con título de especialista en Ciencias de la Salud. | Licenciado Especialista. | Especialidades oficiales.
 Médico de Urgencias Hospitalarias. | 
 Médico de Urgencias y Emergencias.
+Médico de Cuidados Paliativos.
 Licenciados Sanitarios. | Médico de Admisión y Documentación Clínica. | 
 Farmacéutico. | 
 Odontólogo. | 
@@ -28,6 +29,8 @@ Categoría de Médico de urgencias hospitalarias
 Prestar asistencia sanitaria de urgencia a todos los pacientes que la demanden, con los medios disponibles a su alcance, en el ámbito hospitalario en el que desarrolle sus funciones, colaborando con el resto de los servicios sanitarios en la atención de la urgencia. Cualquier otra función relacionada con las descritas que se le asigne reglamentariamente, o venga determinada por una más eficiente gestión.
 Categoría de Médico de urgencias y emergencias
 Prestar asistencia sanitaria de urgencia a todos los pacientes que la demanden, con los medios disponibles a su alcance, fuera del ámbito hospitalario, colaborando con el resto de los servicios sanitarios en la atención de la urgencia. Cualquier otra función relacionada con las descritas que se le asigne reglamentariamente, o venga determinada por una más eficiente gestión.
+Categoría Médico de Cuidados Paliativos
+Prestar asistencia sanitaria integral, individualizada y continuada, tanto de carácter preventivo como asistencial, docente, investigador o administrativo, y en general todas aquellas actividades encaminadas a la mejor atención de los/las pacientes con patologías que precisen de cuidados paliativos. Esta atención se prestará tanto en el domicilio del paciente como en el centro sanitario garantizando la continuidad asistencial y la coordinación con el resto de los servicios/unidades del hospital, así como con la atención primaria estableciendo los cauces de comunicación necesarios. Cualquier otra función relacionada con las descritas que se les asigne reglamentariamente o venga determinada por una más eficiente gestión
 Licenciados Sanitarios
 Categoría de Médico de Admisión y Documentación clínica
 La ordenación y gestión operativa del acceso de los usuarios a la atención especializada, de la demanda de asistencia especializada ambulatoria, de hospitalización y quirúrgica, así como el registro de los pacientes atendidos en urgencias. La creación, actualización y mantenimiento del fichero de pacientes. La gestión de los archivos de documentación e historias clínicas. La codificación clínica. Deberá actuar coordinadamente con el resto de los servicios/unidades del hospital, así como con la atención primaria estableciendo los cauces de comunicación. Cualquier otra función relacionada con las descritas que se les asigne reglamentariamente, o venga determinada por una más eficiente gestión.
@@ -193,4 +196,6 @@ Categoría de Operario de Oficios
 Colaborar con el personal técnico correspondiente, en el área de mantenimiento, en las tareas auxiliares que le sean encomendadas.
 Categoría de Operario de Servicios
 La realización de las tareas de limpieza de dependencias, utensilios para el trabajo, limpieza de ropa, preparación de alimentos para su transformación, preparación de comedores o cualquier otra tarea análoga correspondiente a las áreas de cocina, suministros, almacén o limpieza y lavandería.
+Se modifica por el art. único de la Ley 4/2019, de 19 de marzo. Ref. BOE-A-2019-5739
+Téngase en cuenta, en relación a la titulación para el acceso a la categoría de Médico de Cuidados Paliativos y retribuciones, las disposiciones adicionales 1 y 2 de la citada ley.
 Se modifica por la disposición final 10.2 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385.
