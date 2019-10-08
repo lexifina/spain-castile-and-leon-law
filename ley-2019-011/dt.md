@@ -1,0 +1,2 @@
+Disposición transitoria. Reconocimiento de otros perros de asistencia existentes a la entrada en vigor de la ley.
+Las personas usuarias o propietarias de otros perros de asistencia que ya presten servicios a personas con discapacidad a la entrada en vigor de la presente ley deberán adecuarse a los requisitos de reconocimiento de la unidad de vinculación e identificación previstos en la misma, en el plazo de los seis meses siguientes a dicha entrada en vigor, conforme al procedimiento establecido en esta ley.
