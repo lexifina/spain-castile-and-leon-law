@@ -1,0 +1,2 @@
+Disposición adicional. Normativa básica estatal.
+El disfrute de las presentes prestaciones económicas resultará incompatible con aquellas que puedan crearse, en su caso, con carácter de normativa básica estatal y con la finalidad de conciliar la vida familiar y laboral, una vez expire la vigencia de las prestaciones recogidas en el Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19, en relación con el carácter preferente del trabajo a distancia y el Plan «MECUIDA».
