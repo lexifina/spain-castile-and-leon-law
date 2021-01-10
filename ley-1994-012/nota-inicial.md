@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el BOCYL núm. 151, de 5 de agosto de 1994. Ref. BOCL-h-1994-90251
+Téngase en cuenta que el Parque Regional de Picos de Europa, en Castilla y León (León) pasa a denominarse Parque Regional Montaña de Riaño y Mampodre (León), según establece la disposición final 3 de la Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-3

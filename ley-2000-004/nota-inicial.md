@@ -1,0 +1,1 @@
+Téngase en cuenta que se modifica la denominación del Parque Natural «Fuentes Carrionas y Fuente Cobre-Montaña Palentina» (Palencia) por la de Parque Natural «Montaña Palentina» (Palencia), según establece la disposición final 4 de Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-4
