@@ -1,0 +1,2 @@
+Disposición adicional única. Dirección-conservación del Espacio Natural Protegido.
+La persona titular de la consejería competente en materia de conservación del patrimonio natural nombrará, entre su personal funcionario, a la persona encargada de la dirección-conservación del Parque Natural «Sabinares del Arlanza-La Yecla» (Burgos), en el plazo de tres meses desde la entrada en vigor de la presente ley.
