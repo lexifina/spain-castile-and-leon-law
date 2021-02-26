@@ -1,0 +1,9 @@
+Artículo 278 bis. Supervisión continua del sector público institucional autonómico.
+1. Todas las entidades integrantes del Sector Público Institucional de la Comunidad están sujetas, desde su creación hasta su extinción, a la supervisión continua de la Intervención General de la Administración de la Comunidad, que verificará la concurrencia, al menos, de los siguientes requisitos:
+a) La subsistencia de las circunstancias que justificaron su creación.
+b) Su sostenibilidad financiera.
+c) La concurrencia de las causas de disolución referidas al incumplimiento de los fines que justificaron su creación o que su subsistencia no resulte el medio más idóneo para lograrlos.
+2. La Intervención General de la Administración de la Comunidad decidirá anualmente la realización de las actuaciones de control concretas en el marco de la supervisión continua, atendiendo a los medios disponibles y a un análisis de riesgos en el que se tendrá en consideración los resultados de las actuaciones de control interno efectuadas por la propia Intervención General.
+3. Las actuaciones de planificación, ejecución y evaluación correspondientes a la supervisión continua se determinarán por la Intervención General con base en las normas de auditoría del Sector Público y la normativa reguladora de la ejecución de controles financieros.
+4. Los resultados de la evaluación se plasmarán en un informe sujeto a procedimiento contradictorio que, según las conclusiones que se hayan obtenido, podrá contener recomendaciones de mejora o una propuesta de transformación o supresión del organismo público o entidad. Los informes definitivos serán elevados a la Junta de Castilla y León por el titular de la Consejería competente en materia de hacienda.
+Se añade por el art. 3.12 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
