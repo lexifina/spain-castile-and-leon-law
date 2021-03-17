@@ -1,0 +1,5 @@
+Artículo 33 bis. Subvenciones vinculadas al Pacto para la recuperación económica, el empleo y la cohesión social en Castilla y León.
+1. La administración concederá subvenciones destinadas a apoyar el mantenimiento del empleo y la actividad, incluido el sector de la hostelería y aquellas destinadas a la adquisición de sistemas de protección colectiva y de señalización, de los productos químicos de limpieza y desinfección, y el mantenimiento y mejora del sistema de climatización, frente a la COVID-19; así como ayudas destinadas a trabajadores de 55 o más años afectados por la crisis generada por la Covid-19, previo establecimiento de bases reguladoras que concreten los requisitos exigidos en cada caso.
+2. Las solicitudes de las empresas y trabajadores interesados se presentarán en el plazo que se determine en la convocatoria a partir de que se produzca el hecho subvencionable.
+3. Las solicitudes se resolverán por orden de entrada desde que el expediente esté completo.
+Se añade por la disposición final 6.3 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321

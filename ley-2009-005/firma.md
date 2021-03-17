@@ -244,7 +244,7 @@ Se deja sin contenido por la disposición final 8.13 de la Ley 10/2014, de 22 de
 Se modifica por el art. 9.5 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
 ANEXO VII
 Contenido mínimo de los proyectos acústicos
-1. De acuerdo con el artículo 30 de la ley, los proyectos acústicos relativos a actividades sujetas al régimen de autorización ambiental, de licencia ambiental o de evaluación de impacto ambiental, deberán tener el siguiente contenido:
+1. De acuerdo con el artículo 30 de la ley, los proyectos acústicos relativos a actividades sujetas al régimen de autorización ambiental, de licencia ambiental, de comunicación ambiental o de evaluación de impacto ambiental, deberán tener el siguiente contenido:
 Memoria:
 a. Titular de la actividad.
 b. Tipo de actividad.
@@ -267,6 +267,7 @@ c. Descripción del limitador-controlador de potencia que se instalará y el lug
 Planos:
 Plano en planta con la ubicación de los altavoces.
 3. Los proyectos acústicos se presentaran en formato papel y electrónico.
+Se modifica el primer párrafo del apartado 1 por la disposición final 12.4 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
 ANEXO VIII
 Características de los limitadores-controladores
 1. De acuerdo con el artículo 26 de la ley, los limitadores que se empleen en el control de instalaciones musicales deberán tener las siguientes características:
