@@ -1,0 +1,4 @@
+Artículo 94 ter. Régimen del concierto social en el ámbito local.
+Los órganos competentes de las entidades locales determinarán los servicios, prestaciones u otras actuaciones en el ámbito de los servicios sociales que puedan ser objeto de acción concertada, en el marco de las prestaciones a las personas de servicios de carácter social que desarrollen en ejercicio de sus competencias o en colaboración con la Administración de la Comunidad de Castilla y León, de conformidad con la legislación de régimen local y lo previsto en este decreto.
+Las entidades locales establecerán, en el marco de su potestad de autoorganización, la composición de la comisión de valoración prevista en este decreto, que estará formada por un mínimo de tres personas que deberán ser empleadas públicas de la entidad local que actúe como órgano concertante.
+Se añade por la disposición final 2.2 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df-2
