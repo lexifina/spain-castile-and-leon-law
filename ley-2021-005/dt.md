@@ -1,0 +1,3 @@
+Disposición transitoria. Plazo de adaptación para las entidades del Tercer Sector Social y de voluntariado.
+Las entidades del Tercer Sector Social y las entidades de voluntariado constituidas con anterioridad a la fecha de entrada en vigor de esta ley dispondrán del plazo de un año, a contar desde la entrada en vigor de la presente norma, para adaptar sus normas reguladoras a lo establecido en la presente ley.
+En el caso de las entidades de voluntariado, transcurrido el mencionado plazo sin que se hubiera presentado ante el Registro Regional de Entidades de Voluntariado de Castilla y León la documentación acreditativa de la adaptación, se declarará a dicha entidad estar incursa en causa de cancelación de su anotación registral.
