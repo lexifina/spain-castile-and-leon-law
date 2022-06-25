@@ -1,4 +1,4 @@
 Artículo 57 bis. Aprovechamientos maderables y leñosos de turno corto o domésticos de menor cuantía.
-Cuando se trate de aprovechamientos maderables o leñosos a turno corto o domésticos de menor cuantía, se deberá comunicar a la consejería competente en materia de montes, mediante una declaración responsable, que concurren las circunstancias por las que no es necesaria la comunicación con quince días de antelación prevista en el artículo 56 ni la autorización prevista en el artículo 57.
-A efectos de lo establecido en este artículo, se considerarán aprovechamientos de turno corto o aprovechamientos domésticos de menor cuantía los así definidos en la Ley 43/2003, de 21 de noviembre, de Montes. No obstante, la consejería competente en materia de montes podrá determinar otras combinaciones de especies y turnos conjuntamente tratados que puedan tener también carácter de aprovechamientos de turno corto, y podrá establecer para determinados tipos de aprovechamientos una cuantía inferior de cara a su consideración como de menor cuantía.
+(Derogado)
+Se deroga por la disposición derogatoria del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
 Se añade por el art. 4.4 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951

@@ -73,8 +73,10 @@ e) Cabra montés: desde el 1 de marzo hasta el 30 de junio, y desde el 15 de sep
 f) Lobo: desde el cuarto domingo de septiembre hasta el cuarto domingo de febrero del año siguiente.
 g) Jabalí: desde el cuarto domingo de septiembre hasta el cuarto domingo de febrero del año siguiente, en todas las modalidades.
 Además, en el periodo hábil para la caza del corzo, se podrá cazar el jabalí durante la práctica de la caza de aquella especie.
+Lo previsto en el segundo párrafo del apartado 1 no se aplicará en los supuestos de las letras a) a e) y g) de este apartado.
 5. Días hábiles para la caza mayor.
 Los días hábiles para la práctica de la caza mayor serán los estipulados en la aprobación de los correspondientes planes cinegéticos.
+Se añade el último párrafo al apartado 4 por el Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
 ANEXO III
 Modalidades de caza
 1. Modalidades de caza mayor.
