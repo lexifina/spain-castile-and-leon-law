@@ -1,2 +1,3 @@
 Disposición adicional única. Abono de las deducciones no aplicadas en plazo.
-Los sujetos pasivos que, tras la aplicación de lo previsto en el artículo 10.3, letra c), no hayan agotado la totalidad de la deducción, podrán solicitar el abono de la cantidad que les reste de aplicar.
+(Derogada).
+Se deroga por la disposición derogatoria 2.1 de la Ley 2/2022, de 1 de diciembre. Ref. BOE-A-2022-21578
