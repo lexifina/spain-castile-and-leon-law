@@ -1,0 +1,4 @@
+Disposición derogatoria. Derogación normativa.
+1. Queda derogada la Ley 2/2016, de 11 de noviembre, por la que se regulan las actuaciones para dar curso a las informaciones que reciba la administración autonómica sobre hechos relacionados con delitos contra la administración pública y se establecen las garantías de los informantes.
+2. Específicamente, quedan derogados el artículo 55.bis y el apartado r) del artículo 82 de la Ley 7/2005, de 24 de mayo de la Función Pública de Castilla y León, y la letra n) del apartado 1 del artículo 8, el artículo 44 bis y el número 6 del apartado 2 del artículo 94 de la Ley 2/2007, de 7 de marzo, del Estatuto Jurídico del Personal Estatutario del Servicio de Salud de Castilla y León.
+3. Así mismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Decreto-ley.
