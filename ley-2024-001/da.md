@@ -1,0 +1,2 @@
+Disposición adicional. Plan Estratégico de Igualdad de Oportunidades para las personas con discapacidad.
+Conforme a lo dispuesto en la Ley 2/2013, de 15 de mayo, de Igualdad de Oportunidades para las Personas con Discapacidad, la Administración de la Comunidad aprobará el Plan Estratégico de Igualdad de Oportunidades para las Personas con Discapacidad, incorporando las medidas de apoyo que se deriven de la misma, con la finalidad de que sean integradas y se desarrollen con el resto de las acciones que se planifiquen.
