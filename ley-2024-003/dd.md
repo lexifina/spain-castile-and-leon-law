@@ -1,0 +1,2 @@
+Disposición derogatoria. Régimen derogatorio.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta ley, y de forma específica el Decreto-ley 5/2020, de 18 de junio, por el que se regulan las medidas extraordinarias que deben adoptarse en la atención social en los centros residenciales de personas mayores y personas con discapacidad en Castilla y León para garantizar la protección de usuarios y profesionales ante situaciones excepcionales de salud pública declaradas oficialmente.
