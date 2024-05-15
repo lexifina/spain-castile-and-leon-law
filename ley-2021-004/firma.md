@@ -52,7 +52,6 @@ ANEXO II
 Periodos y días hábiles
 1. Temporada de caza.
 Se entiende por temporada de caza el periodo comprendido entre el 1 de abril y el 31 de marzo del año siguiente.
-En términos generales no se podrá cazar tres días consecutivos sobre las mismas especies, salvo que el plan cinegético lo contemple.
 2. Periodos hábiles para la caza menor.
 a) Temporada general.
 1.º Caza de la liebre con galgo: desde el día 12 de octubre hasta el cuarto domingo de enero del año siguiente.
@@ -61,23 +60,21 @@ b) Media veda.
 1.º Desde el 15 de agosto hasta el tercer domingo de septiembre se podrán cazar las siguientes especies: codorniz, urraca, corneja, conejo y zorro.
 2.º Desde el 25 de agosto hasta el tercer domingo de septiembre se podrán cazar, además, las siguientes especies: tórtola común, paloma torcaz y paloma bravía.
 c) Zorro: además, se podrá cazar el zorro durante la práctica de la caza de cualquiera de las especies de caza mayor.
-d) Palomas y zorzales en migración en pasos: desde el 1 de octubre hasta el segundo domingo de febrero del año siguiente.
+d) Caza de paloma torcaz y zorzales en pasos: desde el 1 de octubre hasta el segundo domingo de febrero del año siguiente.»
 3. Días hábiles para la caza menor.
-a) Temporada general: jueves, sábados, domingos y festivos de carácter nacional y autonómico.
+a) Temporada general: jueves, sábados, domingos y festivos de carácter nacional y autonómico. No se podrá practicar la caza sobre las mismas especies durante más de tres días consecutivos, salvo que el plan cinegético lo contemple.
 b) Media veda: martes, jueves, sábados, domingos y festivos de carácter nacional y autonómico.
-c) Palomas y zorzales en migración en pasos: sin limitación.
-4. Periodos hábiles para la caza mayor.
+c) Caza de paloma torcaz y zorzales en pasos: sin limitación.
+4. Periodos hábiles para la caza mayor:
 a) Ciervo, gamo: desde el primer domingo de septiembre hasta el cuarto sábado de septiembre únicamente a rececho y aguardo/espera; desde el cuarto domingo de septiembre hasta el cuarto domingo de febrero del año siguiente, en todas sus modalidades.
 b) Muflón: durante todo el año únicamente a rececho y aguardo/espera; desde el cuarto domingo de septiembre hasta el cuarto domingo de febrero del año siguiente, en todas sus modalidades.
 c) Corzo: para ambos sexos, desde el 1 de abril hasta el primer domingo de agosto, y desde el 1 de septiembre hasta el segundo domingo de octubre. Además, las hembras también podrán cazarse desde el 1 de enero hasta el cuarto domingo de febrero.
 d) Rebeco: desde el 1 de mayo hasta el 15 de julio y desde el 1 de septiembre hasta el 15 de noviembre.
 e) Cabra montés: desde el 1 de marzo hasta el 30 de junio, y desde el 15 de septiembre hasta el 15 de diciembre.
-f) (Anulado).
-g) Jabalí: desde el cuarto domingo de septiembre hasta el cuarto domingo de febrero del año siguiente, en todas las modalidades.
-Además, en el periodo hábil para la caza del corzo, se podrá cazar el jabalí durante la práctica de la caza de aquella especie.
-Lo previsto en el segundo párrafo del apartado 1 no se aplicará en los supuestos de las letras a) a e) y g) de este apartado.
+f) Jabalí: desde el 1 de abril hasta el primer domingo de agosto, y desde el 1 de septiembre hasta el cuarto sábado de septiembre, únicamente a rececho y aguardo/espera. Desde el cuarto domingo de septiembre hasta el cuarto domingo de febrero del año siguiente, en todas las modalidades.
 5. Días hábiles para la caza mayor.
 Los días hábiles para la práctica de la caza mayor serán los estipulados en la aprobación de los correspondientes planes cinegéticos.
+Se modifican los apartados 1, 2.d), 3.a) y c), y 4 por el art. 27.7 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
 Se declara la inconstitucionalidad y nulidad del apartado 4.f) por la Sentencia del TC 99/2022, de 13 de julio. Ref. BOE-A-2022-13795
 Se añade el último párrafo al apartado 4 por el Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
 ANEXO III

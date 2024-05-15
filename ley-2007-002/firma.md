@@ -196,6 +196,19 @@ Categoría de Operario de Oficios
 Colaborar con el personal técnico correspondiente, en el área de mantenimiento, en las tareas auxiliares que le sean encomendadas.
 Categoría de Operario de Servicios
 La realización de las tareas de limpieza de dependencias, utensilios para el trabajo, limpieza de ropa, preparación de alimentos para su transformación, preparación de comedores o cualquier otra tarea análoga correspondiente a las áreas de cocina, suministros, almacén o limpieza y lavandería.
+Personal Estatutario Investigador
+ | Categoría | Especialidad
+Licenciado con título de especialista en Ciencias de la Salud. | Investigador licenciado con título de especialista en Ciencias de la Salud. | Todas las especialidades oficiales.
+Diplomado con título de especialista en Ciencias de la Salud. | Investigador diplomado con título de especialista en Ciencias de la Salud. | Todas las especialidades oficiales.
+Diplomado Sanitario. | Investigador diplomado sanitario. | 
+Descripción de las funciones más relevantes de las distintas categorías de Personal Estatutario Investigador
+Categoría Investigador licenciado con título de especialista en ciencias de la salud
+El desarrollo de las funciones de investigación, transferencia del conocimiento e innovación en el ámbito clínico que generen un nuevo conocimiento científico y una mejora de los servicios asistenciales y el cuidado de la salud, funciones de información y educación sanitarias, cualquier otra función relacionada que se les asigne o venga determinada por una más eficiente gestión y según se determine reglamentariamente.
+Categoría Investigador diplomado con título de especialista en Ciencias de la Salud
+El desarrollo de las funciones de investigación, transferencia del conocimiento e innovación en el ámbito clínico que generen un nuevo conocimiento científico y una mejora de los servicios asistenciales y el cuidado de la salud, funciones de información y educación sanitarias, cualquier otra función relacionada que se les asigne o venga determinada por una más eficiente gestión y según se determine reglamentariamente.
+Categoría Investigador diplomado sanitario
+El desarrollo de las funciones de investigación, transferencia del conocimiento e innovación en el ámbito clínico que generen un nuevo conocimiento científico y una mejora de los servicios asistenciales y el cuidado de la salud, funciones de información y educación sanitarias, cualquier otra función relacionada que se les asigne o venga determinada por una más eficiente gestión y según se determine reglamentariamente.
+Se añade el apartado «Personal Estatutario Investigador» por el art. 5.6 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
 Se modifica por el art. único de la Ley 4/2019, de 19 de marzo. Ref. BOE-A-2019-5739
 Téngase en cuenta, en relación a la titulación para el acceso a la categoría de Médico de Cuidados Paliativos y retribuciones, las disposiciones adicionales 1 y 2 de la citada ley.
 Se modifica por la disposición final 10.2 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385.
