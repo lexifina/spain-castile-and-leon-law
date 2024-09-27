@@ -1,2 +1,0 @@
-Disposición derogatoria.
-Quedan derogados el Decreto 37/1985, de 11 de abril, por el que se establece la normativa de excavaciones arqueológicas y paleontológicas de la Comunidad de Castilla y León; los artículos 1.º, 3.º, 4.º y 5.º del Decreto 273/1994, de 1 de diciembre, sobre competencias y procedimientos en materia de Patrimonio Histórico en la Comunidad de Castilla y León, y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
