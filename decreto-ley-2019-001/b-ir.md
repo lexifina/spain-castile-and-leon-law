@@ -33,23 +33,7 @@ Subdirector/a de Gestión. | 70 | 70 | 60 | – | – | – | –
 Subdirector/a de Enfermería. | 70 | 70 | 60 | – | – | – | –
 ANEXO III
 Criterios objetivos para valorar la calificación de un puesto como de difícil cobertura/provisión
-PUNTUACIÓN ADJUDICADA A CADA UNO DE ELLOS:
-1. Distancia del centro de salud al hospital/complejo asistencial de referencia.
-1.1. Si >/= 60 minutos: 3 puntos.
-1.2. Si >/= 30 minutos: 1,5 puntos.
-1.3. Si < 30 minutos: 0 puntos.
-2. % de tiempo semanal empleado en los desplazamientos.
-2.1. Si >/= 10%: 2 puntos (3,75 h).
-2.2. Si >/= 6%: 1,5 puntos (2,25 h).
-2.3. Si >/0 3%: 1 punto (1,12 h).
-2.4. Si < 3%: 0 puntos
-3. Grado de dispersión
-3.1. Si G4: 1,5 puntos.
-3.2. Si G3: 0,5 puntos.
-3.3. Si G1-G2: 0 puntos.
-4. Accesos adversos
-4.1. Si **: 3,5 puntos
-4.2. Si NO**: 0 puntos
-** 1 Puerto
+(Derogado)
+Se deroga por la disposición derogatoria.2 de la Ley 3/2025, de 22 de diciembre. Ref. BOE-A-2026-1259
 Información relacionada
 El Decreto-ley 1/2019, de 28 de febrero, ha sido convalidado por Acuerdo de las Cortes de Castilla y León publicado por Resolución de 27 de marzo de 2019. Ref. BOCL-h-2019-90439
