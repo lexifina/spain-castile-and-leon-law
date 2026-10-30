@@ -1,0 +1,11 @@
+{
+  "path": "es-cl",
+  "code": "ES-CL",
+  "name": "Castile and León",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-castile-and-leon-law",
+  "build": "built: statute of autonomy and laws (196 norms, 731 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
