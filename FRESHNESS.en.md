@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/castile-and-leon/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 13:53 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-24 07:18 UTC**.
 - Acts held here: 196; current at the source: 195; changed at the source since the version held here: 1; no longer at the source: 0.
 - Compared with the source in this read: 7 of the 196 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 2 (changed at the source since the version held here: 1, outside this repository's scope: 1); with no reason: 0.
