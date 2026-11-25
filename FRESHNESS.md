@@ -8,7 +8,7 @@ Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS
 
 ### Legislación consolidada del BOE, comunidades autónomas (datos abiertos) · `spain/castile-and-leon/acts`
 
-- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-24 07:18 UTC**.
+- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-25 06:18 UTC**.
 - Normas en este repositorio: 196; al día con la fuente: 195; modificadas en la fuente después de la versión de aquí: 1; ya no están en la fuente: 0.
 - Compared with the source in this read: 7 of the 196 acts held here; the others were not compared in this read (see the check's note).
 - Sin publicar: 2 (modificada en la fuente después de la versión de aquí: 1, fuera del alcance de este repositorio: 1); sin motivo: 0.
