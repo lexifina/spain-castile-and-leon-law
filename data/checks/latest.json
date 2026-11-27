@@ -1,15 +1,14 @@
 {
- "generated": "2026-11-26T06:34:04Z",
+ "generated": "2026-11-27T06:33:57Z",
  "latest": {
   "boe-autonomico|spain/castile-and-leon/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-1990-1722: 0 of 36 blocks of the page not found here; 2844 of 21298 letters here not on the page as such",
-     "BOE-A-1991-14132: 1 of 87 blocks of the page not found here; 1534 of 41191 letters here not on the page as such"
+     "BOE-A-1994-7270: 0 of 40 blocks of the page not found here; 3165 of 27038 letters here not on the page as such"
     ],
-    "match_neither": 2,
-    "match_new": 5,
+    "match_neither": 1,
+    "match_new": 6,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 7,
@@ -29,23 +28,23 @@
     "repo": 196,
     "source_in_scope": 197
    },
-   "check_id": "es-boe-autonomico-20261126T062215Z",
+   "check_id": "es-boe-autonomico-20261127T062216Z",
    "commits": null,
    "corpus": "spain/castile-and-leon/acts",
    "error": null,
-   "finished": "2026-11-26T06:22:51Z",
+   "finished": "2026-11-27T06:22:53Z",
    "flags": [
     {
      "detail": "1 norms new or updated at the BOE over 7 days ago are not here in that form after this check's update",
      "flag": "publish-lag"
     },
     {
-     "detail": "2 of 7 read again by a second route disagree",
+     "detail": "1 of 7 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
    "gap": 2,
-   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -60,9 +59,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25T14:14:13Z",
+   "snapshot": "2026-11-26T13:04:42Z",
    "source": "boe-autonomico",
-   "started": "2026-11-26T06:22:15Z",
+   "started": "2026-11-27T06:22:16Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
