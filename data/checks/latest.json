@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-27T06:33:57Z",
+ "generated": "2026-11-28T08:11:35Z",
  "latest": {
   "boe-autonomico|spain/castile-and-leon/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-1994-7270: 0 of 40 blocks of the page not found here; 3165 of 27038 letters here not on the page as such"
+     "BOE-A-1995-12748: 0 of 40 blocks of the page not found here; 3304 of 22058 letters here not on the page as such"
     ],
     "match_neither": 1,
     "match_new": 6,
@@ -28,11 +28,11 @@
     "repo": 196,
     "source_in_scope": 197
    },
-   "check_id": "es-boe-autonomico-20261127T062216Z",
+   "check_id": "es-boe-autonomico-20261128T062404Z",
    "commits": null,
    "corpus": "spain/castile-and-leon/acts",
    "error": null,
-   "finished": "2026-11-27T06:22:53Z",
+   "finished": "2026-11-28T06:24:40Z",
    "flags": [
     {
      "detail": "1 norms new or updated at the BOE over 7 days ago are not here in that form after this check's update",
@@ -44,7 +44,7 @@
     }
    ],
    "gap": 2,
-   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 05:28 UTC for the 20 Spanish corpora (check es-boe-estatal-20261128T052859Z); this repository's data run to 2026-10-30; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -59,9 +59,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-26T13:04:42Z",
+   "snapshot": "2026-11-27T23:10:03Z",
    "source": "boe-autonomico",
-   "started": "2026-11-27T06:22:16Z",
+   "started": "2026-11-28T06:24:04Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
